@@ -12,10 +12,10 @@ const Navbar = () => {
     return (
         <div className = 'fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] bg-opacity-20 text-white z-50'>
             
-            <p className="hidden: md:flex text-3xl">Manan Shahi</p>
+            <p className="hidden: md:flex text-3xl lg:text-4xl font-semibold">Manan Shahi</p>
             
-            <ul className="hidden md:flex text-3xl text-center">
-                    <li className="hover:text-pink-600"><Link to="home" smooth={true} duration={700}>Home</Link></li>
+            <ul className="hidden md:flex text-3xl lg:text-4xl text-center font-semibold">
+                    <li className="hover:text-pink-600"><Link to="home" smooth={true} duration={700}>About</Link></li>
                     <li className="hover:text-pink-600"><Link to="skills" smooth={true} duration={700}>Skills</Link></li>
                     <li className="hover:text-pink-600"><Link to="projects" smooth={true} duration={700}>Projects</Link></li>
             </ul>
@@ -26,7 +26,7 @@ const Navbar = () => {
             </div>
 
             <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
-                <li className="py-6 text-4xl hover:text-pink-600"><Link onClick={handleClick} to="home" smooth={true} duration={700}>Home</Link></li>
+                <li className="py-6 text-4xl hover:text-pink-600"><Link onClick={handleClick} to="home" smooth={true} duration={700}>About</Link></li>
                 <li className="py-6 text-4xl hover:text-pink-600"><Link onClick={handleClick} to="skills" smooth={true} duration={700}>Skills</Link></li>
                 <li className="py-6 text-4xl hover:text-pink-600"><Link onClick={handleClick} to="projects" smooth={true} duration={700}>Projects</Link></li>
             </ul>

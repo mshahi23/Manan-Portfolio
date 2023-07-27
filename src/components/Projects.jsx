@@ -6,10 +6,10 @@ const Projects = () => {
   const project = data;
 
   return (
-    <div name='projects' className='w-full md:h-screen bg-[#ADD8E6]'>
+    <div name='projects' className='w-full h-full bg-black'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-        <section className= 'sticky text-7xl md:text-7xl font-bold text-black text-center'>Projects</section>
+        <h1 className= 'text-7xl md:text-8xl font-bold text-white text-center mt-16 md:mt-32'>Projects</h1>
         </div>
         <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
 
@@ -20,7 +20,7 @@ const Projects = () => {
                             flex justify-center text-center items-center mx-auto content-div'>
               
               <div className='opacity-0 group-hover:opacity-100'>
-                <span className='text-2xl font bold text-white tracking-wider'>
+                <span className='text-2xl font bold text-black tracking-wider'>
                   {item.name}
                 </span>
                 <div className='pt-8 text-center'>
