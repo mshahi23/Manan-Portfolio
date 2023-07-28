@@ -20,33 +20,34 @@ const Home = () => {
             Hi, I'm Manan Shahi!
           </h1>
 
-          <p className=' text-3xl text-white py-4 text-center'>
-            I'm a recent graduate who is looking for opprtunities in software development and data science. I mostly have experience in frontend developement and data analysis but I am eager to explore diverse opportunities within the field and showcase my versatility and adaptability. Please feel free to contact me if you are interested or have any questions.
+          <p className=' xxs:text-2xl md:text-3xl text-white py-4 text-center'>
+            I'm a recent graduate who is looking for opprtunities in software development and data science. I mostly have experience 
+            in frontend developement and data analysis but I am eager to explore diverse opportunities within the field and showcase my versatility and adaptability. Please feel free to contact me if you are interested or have any questions.
           </p>
 
           <ul className='flex justify-center mt-10'>
-            <li>
+            <li className='px-1.5 sm:px-4'>
               <button className='border-white border-4 px-4 py-2 sm:px-6 sm:py-3 my-2 items-center rounded-full hover:bg-pink-600 hover:border-pink-600'>
                 <a className='flex lg:space-x-4 text-white' target="_blank" href="https://www.linkedin.com/in/manan-shahi/">
                 <p className='hidden lg:flex text-3xl'>LinkedIn</p><FaLinkedin size={40}/>
                 </a>
               </button>
             </li>
-            <li>
+            <li className='px-1.5 sm:px-4'>
               <button className='border-white border-4 px-4 py-2 sm:px-6 sm:py-3 my-2 items-center rounded-full hover:bg-pink-600 hover:border-pink-600'>
                 <a className='flex lg:space-x-4 text-white' target="_blank" href="https://github.com/mshahi23">
                 <p className='hidden lg:flex text-3xl'>GitHub</p> <FaGithub size={40}/>
                 </a>
               </button>
             </li>
-            <li>
+            <li className='px-1.5 sm:px-4'>
               <button className='border-white border-4 px-4 py-2 sm:px-6 sm:py-3 my-2 items-center rounded-full hover:bg-pink-600 hover:border-pink-600'>
                 <a className='flex lg:space-x-4 text-white' target="_blank" href="mailto:mshahi23@wooster.edu">
                 <p className='hidden lg:flex text-3xl'>Email</p>  <HiOutlineMail className="lg:flex justify-between" size={40}/>
                 </a>
               </button>
             </li>
-            <li>
+            <li className='px-1.5 sm:px-4'>
               <button className='border-white border-4 px-4 py-2 sm:px-6 sm:py-3 my-2 items-center rounded-full hover:bg-pink-600 hover:border-pink-600'>
                 <a className='flex lg:space-x-4 w-full text-white' target="_blank" href="https://drive.google.com/file/d/1ZyX7PfwIKxTH9tZb1eOFhHL96_L-AGXQ/view?usp=sharing">
                 <p className='hidden lg:flex text-3xl'>Resume</p> <BsFillPersonLinesFill className='' size={40}/>
