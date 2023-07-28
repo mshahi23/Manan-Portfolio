@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Manan-Portfolio/static/css/main.19dd692d.css",
-    "main.js": "/Manan-Portfolio/static/js/main.375d3761.js",
+    "main.css": "/Manan-Portfolio/static/css/main.4917a2e4.css",
+    "main.js": "/Manan-Portfolio/static/js/main.734b9885.js",
     "static/media/FirstGame.png": "/Manan-Portfolio/static/media/FirstGame.70c2fa475ebb3a377d7e.png",
     "static/media/R.png": "/Manan-Portfolio/static/media/R.a05f0d1389387a91a676.png",
     "static/media/Office365.png": "/Manan-Portfolio/static/media/Office365.7659ad5bc83fad1c6be1.png",
@@ -22,11 +22,11 @@
     "static/media/JavaScript.svg": "/Manan-Portfolio/static/media/JavaScript.acc4642f682cd93a4c20a8a02c0cfa21.svg",
     "static/media/HTML.svg": "/Manan-Portfolio/static/media/HTML.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "static/media/React.svg": "/Manan-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.19dd692d.css.map": "/Manan-Portfolio/static/css/main.19dd692d.css.map",
-    "main.375d3761.js.map": "/Manan-Portfolio/static/js/main.375d3761.js.map"
+    "main.4917a2e4.css.map": "/Manan-Portfolio/static/css/main.4917a2e4.css.map",
+    "main.734b9885.js.map": "/Manan-Portfolio/static/js/main.734b9885.js.map"
   },
   "entrypoints": [
-    "static/css/main.19dd692d.css",
-    "static/js/main.375d3761.js"
+    "static/css/main.4917a2e4.css",
+    "static/js/main.734b9885.js"
   ]
 }
