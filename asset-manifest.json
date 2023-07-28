@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Manan-Portfolio/static/css/main.1d36bfd0.css",
-    "main.js": "/Manan-Portfolio/static/js/main.b6623ebb.js",
+    "main.js": "/Manan-Portfolio/static/js/main.591874c2.js",
     "static/media/FirstGame.png": "/Manan-Portfolio/static/media/FirstGame.70c2fa475ebb3a377d7e.png",
     "static/media/R.png": "/Manan-Portfolio/static/media/R.a05f0d1389387a91a676.png",
     "static/media/Office365.png": "/Manan-Portfolio/static/media/Office365.7659ad5bc83fad1c6be1.png",
@@ -23,10 +23,10 @@
     "static/media/HTML.svg": "/Manan-Portfolio/static/media/HTML.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "static/media/React.svg": "/Manan-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.1d36bfd0.css.map": "/Manan-Portfolio/static/css/main.1d36bfd0.css.map",
-    "main.b6623ebb.js.map": "/Manan-Portfolio/static/js/main.b6623ebb.js.map"
+    "main.591874c2.js.map": "/Manan-Portfolio/static/js/main.591874c2.js.map"
   },
   "entrypoints": [
     "static/css/main.1d36bfd0.css",
-    "static/js/main.b6623ebb.js"
+    "static/js/main.591874c2.js"
   ]
 }
