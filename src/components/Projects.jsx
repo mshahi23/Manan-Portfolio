@@ -6,10 +6,10 @@ const Projects = () => {
   const project = data;
 
   return (
-    <div name='projects' className='w-full h-full bg-black'>
+    <div name='projects' className='w-full h-full'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-        <h1 className= 'text-7xl md:text-8xl font-bold text-white text-center mt-16 md:mt-32'>Projects</h1>
+        <h1 className= 'text-7xl md:text-8xl font-bold text-white text-center mt-16 md:mt-44'>Projects</h1>
         </div>
         <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
 

@@ -3,10 +3,12 @@ import {FaGithub, FaLinkedin} from 'react-icons/fa';
 import {HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 import Manan from '../assets/Manan.jpg';
+import Skills from './Skills';
+import Projects from './Projects';
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-full bg-black pt-24 md:pt-40'>
+    <div name='home' className='w-full h-full bg-anim pt-24 md:pt-40'>
 
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center items-center w-full h-full'>
           
@@ -18,13 +20,13 @@ const Home = () => {
             Hi, I'm Manan Shahi!
           </h1>
 
-          <p className=' text-3xl text-white py-4 justify-center text-left'>
+          <p className=' text-3xl text-white py-4 text-center'>
             I’m a full-stack developer specializing in building (and occasionally
             designing) exceptional digital experiences. Currently, I’m focused on
             building responsive full-stack web applications.
           </p>
 
-          <ul className='flex justify-center'>
+          <ul className='flex justify-center mt-10'>
             <li>
               <button className='border-white border-4 px-4 py-2 sm:px-6 sm:py-3 my-2 items-center rounded-full hover:bg-pink-600 hover:border-pink-600'>
                 <a className='flex lg:space-x-4 text-white' target="_blank" href="https://www.linkedin.com/in/manan-shahi/">
@@ -56,6 +58,8 @@ const Home = () => {
           </ul>
 
         </div>
+        <Skills/>
+        <Projects/>
     </div>
   );
 };

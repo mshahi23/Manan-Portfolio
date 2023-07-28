@@ -1,5 +1,6 @@
 import Ramble from './ramble.png';
 import Dungeon from './Dungeon.png';
+import FirstGame from './FirstGame.png';
 import C from './C.png';
 import CPlus from './CPlus.svg';
 import CSharp from './CSharp.svg';
@@ -26,21 +27,21 @@ export const data=[
         id:1,
         name:"Ramble",
         image:Ramble,
-        github:"",
+        github:"https://github.com/mshahi23/Ramble",
         live:"",
     },
     {
         id:2,
         name:"Procedural Dungeon Generator",
         image:Dungeon,
-        github:"",
+        github:"https://github.com/mshahi23/Procedural-Dungeon-Generator",
         live:"",
     },
     {
         id:3,
         name:"First Game",
-        image:Dungeon,
-        github:"",
+        image:FirstGame,
+        github:"https://github.com/mshahi23/FirstGame",
         live:"",
     },
 ];
