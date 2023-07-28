@@ -20,7 +20,7 @@ const Home = () => {
             Hi, I'm Manan Shahi!
           </h1>
 
-          <p className=' xxs:text-2xl md:text-3xl text-white py-4 text-center'>
+          <p className=' xxs:text-2xl md:text-3xl -mt-4 text-white py-4 text-center'>
             I'm a recent graduate who is looking for opprtunities in software development and data science. I mostly have experience 
             in frontend developement and data analysis but I am eager to explore diverse opportunities within the field and showcase my versatility and adaptability. Please feel free to contact me if you are interested or have any questions.
           </p>
