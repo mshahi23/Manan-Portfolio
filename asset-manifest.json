@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Manan-Portfolio/static/css/main.1d36bfd0.css",
+    "main.js": "/Manan-Portfolio/static/js/main.b6623ebb.js",
+    "static/media/FirstGame.png": "/Manan-Portfolio/static/media/FirstGame.70c2fa475ebb3a377d7e.png",
+    "static/media/R.png": "/Manan-Portfolio/static/media/R.a05f0d1389387a91a676.png",
+    "static/media/Office365.png": "/Manan-Portfolio/static/media/Office365.7659ad5bc83fad1c6be1.png",
+    "static/media/ramble.png": "/Manan-Portfolio/static/media/ramble.d26da2d595798fba7d00.png",
+    "static/media/Manan.jpg": "/Manan-Portfolio/static/media/Manan.ac2c0738b0e186d95d1e.jpg",
+    "static/media/Dungeon.png": "/Manan-Portfolio/static/media/Dungeon.fa4a783c33bb9f824a15.png",
+    "static/media/C.png": "/Manan-Portfolio/static/media/C.bbbbbabc8c191bfb99bf.png",
+    "static/media/VSCode.svg": "/Manan-Portfolio/static/media/VSCode.5f6c87ee85944898b6682f2a2a13df91.svg",
+    "static/media/Java.svg": "/Manan-Portfolio/static/media/Java.cd9a7278a1882b41342137af0da0491d.svg",
+    "static/media/CSharp.svg": "/Manan-Portfolio/static/media/CSharp.e2c0510d2b743a87e7621b703ba07906.svg",
+    "static/media/Python.svg": "/Manan-Portfolio/static/media/Python.4fde4a7ebe9a1665d0ffdef50236fffb.svg",
+    "static/media/CPlus.svg": "/Manan-Portfolio/static/media/CPlus.2441702dffa95ca3c92c20816e386640.svg",
+    "static/media/Clion.svg": "/Manan-Portfolio/static/media/Clion.9eb3343f133f00747fed12c05f2ecb41.svg",
+    "static/media/CSS.svg": "/Manan-Portfolio/static/media/CSS.ab39a4f203b87ab85898720c628106b4.svg",
+    "static/media/Git.svg": "/Manan-Portfolio/static/media/Git.29ee81f3816dc8c467d2fe7c26ba1f4c.svg",
+    "static/media/Figma.svg": "/Manan-Portfolio/static/media/Figma.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
+    "index.html": "/Manan-Portfolio/index.html",
+    "static/media/JavaScript.svg": "/Manan-Portfolio/static/media/JavaScript.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "static/media/HTML.svg": "/Manan-Portfolio/static/media/HTML.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
+    "static/media/React.svg": "/Manan-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.1d36bfd0.css.map": "/Manan-Portfolio/static/css/main.1d36bfd0.css.map",
+    "main.b6623ebb.js.map": "/Manan-Portfolio/static/js/main.b6623ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d36bfd0.css",
+    "static/js/main.b6623ebb.js"
+  ]
+}
