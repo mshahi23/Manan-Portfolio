@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div name='home' className='w-full h-full bg-anim pt-24 md:pt-40'>
 
-        <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center items-center w-full h-full'>
+        <div className='max-w-[1200px] mx-auto px-8 flex flex-col justify-center items-center w-full h-full'>
           
           <h1 className= 'text-7xl md:text-8xl font-bold text-white text-center mt-10 -mb-16 sm:-mb-28 md:-mb-36 lg:-mb-42'>About</h1>
 
@@ -25,7 +25,7 @@ const Home = () => {
             in frontend developement and data analysis but I am eager to explore diverse opportunities within the field and showcase my versatility and adaptability. Please feel free to contact me if you are interested or have any questions.
           </p>
 
-          <ul className='flex justify-center mt-10'>
+          <ul className='flex flex-wrap justify-center mt-10 items-center'>
             <li className='px-1.5 sm:px-4'>
               <button className='border-white border-4 px-4 py-2 sm:px-6 sm:py-3 my-2 items-center rounded-full hover:bg-pink-600 hover:border-pink-600'>
                 <a className='flex lg:space-x-4 text-white' target="_blank" href="https://www.linkedin.com/in/manan-shahi/">
