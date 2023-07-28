@@ -12,11 +12,11 @@ const Home = () => {
 
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center items-center w-full h-full'>
           
-          <h1 className= 'text-7xl md:text-8xl font-bold text-white text-center mt-10 -mb-20 sm:-mb-32 md:-mb-40 lg:-mb-42'>About</h1>
+          <h1 className= 'text-7xl md:text-8xl font-bold text-white text-center mt-10 -mb-16 sm:-mb-28 md:-mb-36 lg:-mb-42'>About</h1>
 
           <img className='mx-auto scale-50 lg:scale-60 border-4 border-white rounded-full z-0'  src = {Manan} alt = "Manan Portrait"></img>
           
-          <h1 className='text-4xl md:text-5xl font-bold text-white  text-center mb-10 -mt-20 sm:-mt-32 md:-mt-40 lg:-mt-42'>
+          <h1 className='text-4xl md:text-5xl font-bold text-white  text-center mb-10 -mt-16 sm:-mt-28 md:-mt-36 lg:-mt-42'>
             Hi, I'm Manan Shahi!
           </h1>
 
